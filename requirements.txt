@@ -2,7 +2,7 @@ absl-py==0.9.0
 astor==0.8.1
 certifi==2018.8.24
 cycler==0.10.0
-Django==2.2.11
+Django==2.2.21
 gast==0.3.3
 google-pasta==0.2.0
 grpcio==1.27.2
