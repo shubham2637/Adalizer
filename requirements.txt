@@ -1,6 +1,6 @@
 absl-py==0.9.0
 astor==0.8.1
-certifi==2018.8.24
+certifi==2022.12.7
 cycler==0.10.0
 Django==2.2.11
 gast==0.3.3
